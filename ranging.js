@@ -2,7 +2,6 @@ const slider = document.querySelector('.slider-input');
 let output1 = document.querySelector('.info1');
 let output2 = document.querySelector('.info2');
 
-//output2.innerHTML = parseFloat(slider.value);
 slider.oninput = function(){
 if (slider.value <= 8){
     output2.innerHTML = '$8.00';
