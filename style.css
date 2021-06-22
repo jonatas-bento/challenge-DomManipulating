@@ -215,7 +215,6 @@ header .second_text {
 
 .attribution {
     display: flex;
-    background-color: hsl(174, 77%, 80%);
     align-items: center;
     justify-content: center;
     font-size: 0.65rem;
