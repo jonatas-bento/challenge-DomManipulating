@@ -17,8 +17,6 @@ This is a solution to the [Interactive pricing component challenge on Frontend M
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-
-
 ## Overview
 
 - I got this challenge in order to improve my habilities in manipulating DOM elements. Although we find a beautiful and challenging layout, the most important thing to me was the interaction between an input and the results through HTML output.
@@ -33,20 +31,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](./screenshot/desktop.jpeg)
+![image](./screenshot/mobile.jpeg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 
 ## My process
 
@@ -56,7 +49,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 
 ### What I learned
@@ -74,10 +66,10 @@ if (slider.value <= 8){
     output1.innerHTML = '10K PAGEVIEWS'
 ```
 
-
 ### Continued development
 
 With this I am trying to make myself comfortable with some techniques that are available through manipulation of DOM. And because of that I intend to move forward, probably using frameworks like REACTJS and VUE for next challenges.
+
 ### Useful resources
 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
@@ -86,13 +78,10 @@ With this I am trying to make myself comfortable with some techniques that are a
 
 ## Author
 
-- Website - [Jonatas Bento](https://www.your-site.com)
-- Frontend Mentor - [@jonatas-bento](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+- Github - [Jonatas Bento](https://github.com/jonatas-bento)
+- Frontend Mentor - [@jonatas-bento](https://www.frontendmentor.io/profile/jonatas-bento)
 
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
+Once more I would like to give thanks to my teachers (Leandro Leite and Patrick Reis). They have been helping me to improve my skills and if there is still something missing here it is my fault. But if there is something good, for sure it's because they helped me. Thank you both again! 
