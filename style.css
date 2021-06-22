@@ -255,12 +255,21 @@ header .second_text {
         margin-bottom: -150px;
     }
 
+    .second_box {
+        width: 280px;
+    }
+
+    .second_box .right {
+
+        right: 100px;
+    }
+
     .second_box .right button {
         width: 153%;
         opacity: 1;
         position: relative;
         bottom: -75px;
-        right: 178px;
+        right: 85px;
     }
 
 
